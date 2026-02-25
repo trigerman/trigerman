@@ -1,98 +1,130 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+Initializing+connection...;%3E+Root+privileges+granted.;%3E+Welcome+to+Dhrupad+Joshi's+mainframe." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="800" alt="Cyberpunk Hacker Matrix Rain" />
+  <br/><br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=SYSTEM+BREACH+INITIALIZED;HELLO,+I'M+DHRUPAD+JOSHI;CYBERSECURITY+PROFESSIONAL+%7C+THREAT+HUNTER" alt="Typing SVG" />
 </div>
 
 ---
 
 <br/>
 
-### `> whoami`
-```bash
-dhrupad@mainframe:~$ cat profile.txt
-NAME="Dhrupad Joshi"
-ROLE="Cybersecurity Professional | Threat Hunter | Systems Defender"
-LOCATION="Pennsylvania, USA"
-MISSION="Securing critical infrastructure, advancing threat detection, and building tools that help defenders stay ahead."
-```
-
-<br/>
-
-### `> cat threat_intel_summary.log`
-| Metric | Status |
-| :--- | :--- |
-| **Vulnerabilities Discovered** | `150+ confirmed` |
-| **Hall of Fame Acknowledgments** | `8 industry leaders` |
-| **CPTC Regional Placement** | `3rd Place` |
-| **CyberForce 2025 Rank** | `16th Place` |
-
-<br/>
-
-### `> ./display_skills.sh`
-**Languages**  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00FF00&color=050505)
-![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=00FF00&color=050505)
-![TypeScript](https://img.shields.io/badge/TypeScript-14354C?style=for-the-badge&logo=typescript&logoColor=00FF00&color=050505)
-![Bash](https://img.shields.io/badge/Bash-14354C?style=for-the-badge&logo=gnu-bash&logoColor=00FF00&color=050505)
-![Go](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=00FF00&color=050505)
-![SQL](https://img.shields.io/badge/SQL-14354C?style=for-the-badge&logo=sqlite&logoColor=00FF00&color=050505)
-
-**Cybersecurity**  
-![Pen Testing](https://img.shields.io/badge/Pen_Testing-14354C?style=for-the-badge&logo=kalilinux&logoColor=00FFFF&color=050505)
-![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-14354C?style=for-the-badge&logo=owasp&logoColor=00FFFF&color=050505)
-![SIEM](https://img.shields.io/badge/SIEM-14354C?style=for-the-badge&logo=splunk&logoColor=00FFFF&color=050505)
-![Incident Response](https://img.shields.io/badge/Incident_Response-14354C?style=for-the-badge&logo=security-scorecard&logoColor=00FFFF&color=050505)
-![API Security](https://img.shields.io/badge/API_Security-14354C?style=for-the-badge&logo=postman&logoColor=00FFFF&color=050505)
-
-**Tools & Platforms**  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-14354C?style=for-the-badge&logo=burpsuite&logoColor=FF9900&color=050505)
-![Nmap](https://img.shields.io/badge/Nmap-14354C?style=for-the-badge&logoColor=FF9900&color=050505)
-![Wireshark](https://img.shields.io/badge/Wireshark-14354C?style=for-the-badge&logo=wireshark&logoColor=FF9900&color=050505)
-![Docker](https://img.shields.io/badge/Docker-14354C?style=for-the-badge&logo=docker&logoColor=FF9900&color=050505)
-![AWS](https://img.shields.io/badge/AWS-14354C?style=for-the-badge&logo=amazonaws&logoColor=FF9900&color=050505)
-
-<br/>
-
-### `> cat experience.json`
-```json
-[
-  {
-    "role": "Instructional Assistant",
-    "organization": "Pennsylvania State University",
-    "timeline": "Aug 2024 - Present",
-    "focus": "Network Security Labs, Secure Code Review, AI Driven Platforms"
-  },
-  {
-    "role": "Network Security Intern",
-    "organization": "CableLabs",
-    "timeline": "May 2025 - Aug 2025",
-    "focus": "DDoS Simulation Framework (L3/L4/L7), Arbor Sightline, Router Automation"
-  },
-  {
-    "role": "Associate Consultant",
-    "organization": "KPMG",
-    "timeline": "Apr 2023 - Aug 2024",
-    "focus": "Breach & Attack Simulation, 15+ Honeypot Deployments, Threat Intel Upgrade (40%)"
-  },
-  {
-    "role": "Software Engineer",
-    "organization": "Capgemini",
-    "timeline": "Jul 2021 - Mar 2023",
-    "focus": "Microservices, Spring Security, REST API Secure Code Review"
-  }
-]
-```
-
-<br/>
-
-### `> netstat -ano | grep stats`
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrupadj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=0&bg_color=0D1117&title_color=00FF00&icon_color=00FFFF&text_color=A0A0B0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrupadj&layout=compact&theme=tokyonight&hide_border=true&border_radius=0&bg_color=0D1117&title_color=00FF00&text_color=A0A0B0" alt="Top Languages" width="48%" />
+  <h3>⚡ THREAT INTELLIGENCE SUMMARY ⚡</h3>
+  <br/>
+  <table>
+    <tr align="center">
+      <td width="200">
+        <h1>🚩 150+</h1>
+        <b>Vulnerabilities Found</b>
+      </td>
+      <td width="200">
+        <h1>🏅 8</h1>
+        <b>Hall of Fame Accolades</b>
+      </td>
+      <td width="200">
+        <h1>⚔️ 3rd</h1>
+        <b>Place CPTC Regional</b>
+      </td>
+      <td width="200">
+        <h1>🛡️ 16th</h1>
+        <b>Place CyberForce 2025</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
----
-<p align="center">
-  <i>"I'm in."</i>
-</p>
+<div align="center">
+  <h3>🛠️ ARSENAL & SKILLS 🛠️</h3>
+  <br/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <!-- High quality graphical glass skill icons -->
+      <img src="https://skillicons.dev/icons?i=py,java,ts,bash,go,c,aws,docker,linux,kali,windows,mysql" alt="Skills" />
+    </a>
+  </p>
+  <br/>
+  <b>Core Focus:</b> <code>Penetration Testing</code> • <code>Threat Modeling</code> • <code>SIEM</code> • <code>API Security</code> • <code>Incident Response</code>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📂 OPERATIONS LOG 📂</h3>
+  <br/>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://img.icons8.com/color/48/000000/university.png" width="40" /><br>
+        <b>Penn State University</b><br>
+        <i>Instructional Assistant</i><br>
+        <small>2024 - Present</small>
+      </td>
+      <td>
+        🟢 Engineered AI-driven platform for secure code review & tutoring.<br>
+        🟢 Developed network security lab with Python polymorphic seeds.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://img.icons8.com/color/48/000000/network-cable.png" width="40" /><br>
+        <b>CableLabs</b><br>
+        <i>Network Security Intern</i><br>
+        <small>2025</small>
+      </td>
+      <td>
+        🟢 Built DDoS (L3/L4/L7) simulation and mitigation framework.<br>
+        🟢 Deployed digital twin with Arbor Sightline & OPNsense.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://img.icons8.com/color/48/000000/shield.png" width="40" /><br>
+        <b>KPMG</b><br>
+        <i>Associate Consultant</i><br>
+        <small>2023 - 2024</small>
+      </td>
+      <td>
+        🟢 Led 10+ Breach & Attack Simulations (150+ vulns found).<br>
+        🟢 Deployed 15+ Honeypot solutions raising threat intel by 40%.
+      </td>
+    </tr>
+        <tr>
+      <td align="center" width="250">
+        <img src="https://img.icons8.com/color/48/000000/source-code.png" width="40" /><br>
+        <b>Capgemini</b><br>
+        <i>Software Engineer</i><br>
+        <small>2021 - 2023</small>
+      </td>
+      <td>
+        🟢 Maintained production microservices using Spring Boot & Angular.<br>
+        🟢 Advanced REST API security & encryption compliance protocols.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🔥 SYSTEM TELEMETRY 🔥</h3>
+  <br/>
+  <!-- Pointed at your specific GitHub username (trigerman) to fix the broken image links and styled aggressively -->
+  <a href="https://github.com/trigerman">
+    <img src="https://github-readme-stats.vercel.app/api?username=trigerman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/trigerman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trigerman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=EOF;CONNECTION+TERMINATED...;DISCONNECTING+FROM+MAINFRAME..." alt="Typing End" />
+</div>
