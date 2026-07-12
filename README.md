@@ -1,30 +1,86 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="./assets/header.svg" alt="Dhrupad Joshi — Security Researcher, Red Team Operator, Builder" width="100%" />
 </div>
-
----
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=trigerman&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF00&title_color=00FF00&text_color=AAAAAA" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trigerman&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=AAAAAA&currStreakLabel=00FF00&sideLabels=00FF00&dates=555555" alt="GitHub Streak" width="48%" />
+  <a href="https://dhrupad.me/"><img src="https://img.shields.io/badge/PORTFOLIO-dhrupad.me-00ff88?style=for-the-badge&amp;labelColor=07110d" alt="Portfolio" /></a>
+  <a href="https://v86lab.vercel.app/"><img src="https://img.shields.io/badge/LIVE_LABS-launch-00d9ff?style=for-the-badge&amp;labelColor=07110d" alt="Launch cyber labs" /></a>
+  <a href="https://linkedin.com/in/dhrupad-joshi"><img src="https://img.shields.io/badge/LINKEDIN-connect-00ff88?style=for-the-badge&amp;labelColor=07110d" alt="LinkedIn" /></a>
+  <a href="mailto:joshidhrupad.u@gmail.com"><img src="https://img.shields.io/badge/CONTACT-email-00d9ff?style=for-the-badge&amp;labelColor=07110d" alt="Email" /></a>
 </div>
 
-<br/>
+```text
+root@dhrupad:~$ whoami
+Security researcher working the full attack-to-defense loop.
+
+root@dhrupad:~$ cat mission.txt
+Break systems responsibly. Turn findings into detections. Build tools that help defenders win.
+```
+
+## `// signal, not noise`
+
+| **150+** vulnerabilities found | **4** published CVEs | **12×** Hall of Fame | **Top 3** MACCDC 2026 |
+|:---:|:---:|:---:|:---:|
+| Responsible disclosure | HAX CMS research | Industry recognition | Collegiate cyber defense |
+
+I work across offensive security, vulnerability research, detection engineering, AppSec, cloud security, DFIR, and AI/LLM red teaming. I like the hard middle ground where a finding becomes a reproducible attack path, a useful detection, and eventually a better product.
+
+## `// flagship builds`
+
+<table><tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/trigerman/eyilguard">01 / Eyil Guard</a></h3>
+<p><strong>Open-source Windows endpoint protection with transparent verdicts.</strong></p>
+<p>Combines ClamAV, ~5,900 YARA rules, abuse.ch intelligence, behavioral heuristics, live C2/hash checks, and a kernel minifilter for pre-execution blocking.</p>
+<p><code>Python</code> <code>React</code> <code>YARA</code> <code>Minifilter</code> <code>Threat Intel</code></p>
+<a href="https://github.com/trigerman/eyilguard"><strong>Explore the repository →</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://v86lab.vercel.app/">02 / Browser Cyber Labs</a></h3>
+<p><strong>Real Linux attack-and-defense labs running entirely in the browser.</strong></p>
+<p>v86 + WebAssembly ranges with no backend grader or local VM. BlueWall teaches IDS/firewall response; ShadowShell teaches webshell incident response. Each run rewrites the evidence.</p>
+<p><code>v86</code> <code>WebAssembly</code> <code>Buildroot</code> <code>Snort</code> <code>DFIR</code></p>
+<a href="https://v86lab.vercel.app/"><strong>Launch the labs →</strong></a>
+</td>
+</tr></table>
+
+## `// published vulnerability research`
+
+| ID | Severity | Research |
+|---|:---:|---|
+| [CVE-2026-46396](https://nvd.nist.gov/vuln/detail/CVE-2026-46396) | `CRITICAL · 9.3` | Stored XSS via iframe injection in HAX CMS |
+| [CVE-2026-46496](https://nvd.nist.gov/vuln/detail/CVE-2026-46496) | `CRITICAL · 9.3` | Stored XSS via the HAX CMS video-player component |
+| [CVE-2026-46511](https://nvd.nist.gov/vuln/detail/CVE-2026-46511) | `HIGH · 8.7` | Stored XSS + token exposure account-takeover path |
+| [CVE-2026-35185](https://nvd.nist.gov/vuln/detail/CVE-2026-35185) | `HIGH · 8.7` | Public server-status sensitive information exposure |
+
+All four issues were responsibly disclosed and patched upstream. [Read the full research and impact notes →](https://dhrupad.me/#research)
+
+## `// operating range`
+
+```text
+OFFENSE              DEFENSE                 ENGINEERING
+├─ Red teaming       ├─ Detection-as-code    ├─ Python / TypeScript
+├─ Web & API testing ├─ Threat hunting       ├─ Security tooling
+├─ Adversary emu     ├─ DFIR                 ├─ v86 / WebAssembly
+├─ AI / LLM security ├─ Incident response    └─ Cloud & AppSec
+└─ Vuln research     └─ Purple teaming
+```
+
+## `// field notes`
+
+- Penn State — M.S. Cybersecurity Analytics & Operations, **3.96 GPA**
+- Top 3 — Mid-Atlantic Collegiate Cyber Defense Competition 2026
+- 16th of ~100 teams — DOE CyberForce Competition 2025
+- Hall of Fame recognition from organizations including SAP and Mastercard
 
 <div align="center">
-  <img src="https://quickchart.io/chart?w=600&h=440&bkg=transparent&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Initial%20Access%27%2C%27Execution%27%2C%27Persistence%27%2C%27Privilege%20Escalation%27%2C%27Defense%20Evasion%27%2C%27Credential%20Access%27%2C%27Discovery%27%2C%27Lateral%20Movement%27%2C%27C2%27%2C%27Impact%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Offensive%20TTPs%27%2Cdata%3A%5B78%2C92%2C55%2C88%2C65%2C97%2C82%2C50%2C60%2C85%5D%2CbackgroundColor%3A%27rgba%28255%2C20%2C85%2C0.25%29%27%2CborderColor%3A%27%23FF1455%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27%23FF1455%27%2CpointRadius%3A4%7D%2C%7Blabel%3A%27Defensive%20Coverage%27%2Cdata%3A%5B90%2C75%2C88%2C70%2C92%2C85%2C78%2C88%2C72%2C80%5D%2CbackgroundColor%3A%27rgba%280%2C255%2C140%2C0.15%29%27%2CborderColor%3A%27%2300FF8C%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27%2300FF8C%27%2CpointRadius%3A4%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Blabels%3A%7BfontColor%3A%27%23ddd%27%2CfontSize%3A13%7D%7D%2Cscale%3A%7BpointLabels%3A%7BfontColor%3A%27%2300FF00%27%2CfontSize%3A11%7D%2CgridLines%3A%7Bcolor%3A%27rgba%280%2C255%2C0%2C0.15%29%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba%280%2C255%2C0%2C0.15%29%27%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%7D%7D%7D%7D" alt="MITRE ATT&CK Radar" width="48%" />
-  <img src="https://quickchart.io/chart?w=600&h=440&bkg=transparent&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Pen%20Testing%27%2C%27Threat%20Modeling%27%2C%27Incident%20Response%27%2C%27Network%20Exploitation%27%2C%27Cloud%20Security%27%2C%27Reverse%20Engineering%27%2C%27Malware%20Analysis%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%20Proficiency%27%2Cdata%3A%5B95%2C78%2C72%2C88%2C60%2C45%2C58%5D%2CbackgroundColor%3A%27rgba%280%2C210%2C255%2C0.2%29%27%2CborderColor%3A%27%2300D2FF%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27%2300D2FF%27%2CpointRadius%3A5%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Blabels%3A%7BfontColor%3A%27%23ddd%27%2CfontSize%3A13%7D%7D%2Cscale%3A%7BpointLabels%3A%7BfontColor%3A%27%2300CFFF%27%2CfontSize%3A11%7D%2CgridLines%3A%7Bcolor%3A%27rgba%280%2C200%2C255%2C0.15%29%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba%280%2C200%2C255%2C0.15%29%27%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%7D%7D%7D%7D" alt="Skill Radar" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trigerman&amp;show_icons=true&amp;hide_border=true&amp;bg_color=07110d&amp;title_color=00ff88&amp;icon_color=00d9ff&amp;text_color=b7c9c0&amp;ring_color=00ff88" alt="Dhrupad's GitHub stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=trigerman&amp;hide_border=true&amp;background=07110D&amp;ring=00FF88&amp;fire=00D9FF&amp;currStreakLabel=00FF88&amp;sideLabels=B7C9C0&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=657A70" alt="Dhrupad's GitHub streak" width="49%" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://quickchart.io/chart?w=700&h=200&bkg=transparent&c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Blabels%3A%5B%27Languages%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Web+%28HTML%2BCSS%2BJS%29%27%2Cdata%3A%5B148980%5D%2CbackgroundColor%3A%27%23E34C26%27%7D%2C%7Blabel%3A%27Python%27%2Cdata%3A%5B25589%5D%2CbackgroundColor%3A%27%233572A5%27%7D%2C%7Blabel%3A%27TypeScript%27%2Cdata%3A%5B23001%5D%2CbackgroundColor%3A%27%232B7489%27%7D%2C%7Blabel%3A%27PowerShell%27%2Cdata%3A%5B8000%5D%2CbackgroundColor%3A%27%235391FE%27%7D%2C%7Blabel%3A%27Shell%27%2Cdata%3A%5B1563%5D%2CbackgroundColor%3A%27%2389e051%27%7D%2C%7Blabel%3A%27Dockerfile%27%2Cdata%3A%5B507%5D%2CbackgroundColor%3A%27%230db7ed%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Blabels%3A%7BfontColor%3A%27%23ccc%27%7D%7D%2Cscales%3A%7BxAxes%3A%5B%7Bticks%3A%7Bdisplay%3Afalse%7D%2CgridLines%3A%7Bcolor%3A%27rgba%280%2C255%2C0%2C0.1%29%27%7D%2Cstacked%3Atrue%7D%5D%2CyAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27%2300FF00%27%7D%2CgridLines%3A%7Bdisplay%3Afalse%7D%2Cstacked%3Atrue%7D%5D%7D%7D%7D" alt="Language Stats" width="70%" />
+  <strong>Open to security roles, research collaboration, and ambitious defensive engineering.</strong><br />
+  <sub><code>root@dhrupad:~$</code> make security useful <span>█</span></sub>
 </div>
-
-<br/>
-
